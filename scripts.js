@@ -10,7 +10,7 @@ let userMessage;
 
 // Create your own generated API key for this "API_KEY"
 // Go to = https://platform.openai.com/account/api-keys
-const API_KEY = "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";
+const API_KEY = "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";
 const inputInitHeight = chatInput.scrollHeight;
 
 const createChatLi = (message, className) => {
